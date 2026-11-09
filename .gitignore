@@ -1,4 +1,8 @@
 venv
 .venv
+.serena
 __pycache__/
 work/
+AGENTS.md
+data/
+tests/
